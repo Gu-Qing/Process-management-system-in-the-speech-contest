@@ -141,6 +141,15 @@
   <ItemGroup>
     <Text Include="项目描述.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="speechManager.cpp" />
+    <ClCompile Include="test.cpp" />
+    <ClCompile Include="演讲比赛流程管理系统.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="speechManager.h" />
+    <ClInclude Include="Speaker.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
