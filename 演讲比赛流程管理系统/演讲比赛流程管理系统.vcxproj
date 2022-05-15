@@ -143,7 +143,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="speechManager.cpp" />
-    <ClCompile Include="test.cpp" />
     <ClCompile Include="演讲比赛流程管理系统.cpp" />
   </ItemGroup>
   <ItemGroup>
